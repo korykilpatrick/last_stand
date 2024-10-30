@@ -1,0 +1,316 @@
+{
+    "attendees": [
+        {
+            "id": "kevin",
+            "name": "kevin",
+            "photoUrl": "/images/kevin.jpeg",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "john",
+            "name": "john",
+            "photoUrl": "/images/john.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "mike",
+            "name": "mike",
+            "photoUrl": "/images/mike.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "bruno",
+            "name": "bruno",
+            "photoUrl": "/images/bruno.JPeG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "bill",
+            "name": "bill",
+            "photoUrl": "/images/bill.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "graham",
+            "name": "graham",
+            "photoUrl": "/images/graham.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "jonas",
+            "name": "jonas",
+            "photoUrl": "/images/jonas.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "joel",
+            "name": "joel",
+            "photoUrl": "/images/joel.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "jordan",
+            "name": "jordan",
+            "photoUrl": "/images/jordan.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "david",
+            "name": "david",
+            "photoUrl": "/images/david.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "perk",
+            "name": "perk",
+            "photoUrl": "/images/perk.JPG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "jack",
+            "name": "jack",
+            "photoUrl": "/images/jack.JPeG",
+            "metadata": {
+                "hometown": "Unknown",
+                "relationToKory": "Unknown",
+                "funFact": "Unknown"
+            },
+            "travel": {
+                "arrivalDate": "2024-04-24",
+                "departureDate": "2024-04-27"
+            },
+            "rsvps": {
+                "golf": false,
+                "rafting": false,
+                "brunch": false
+            },
+            "whatPeopleSay": [
+                {
+                    "id": "1",
+                    "comment": "Legend has it he once ate 50 hot wings in one sitting",
+                    "timestamp": "2024-01-30T12:00:00Z"
+                }
+            ]
+        }
+    ]
+}
